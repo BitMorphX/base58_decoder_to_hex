@@ -1,3 +1,5 @@
+> ⚠️ This project is deprecated. Please see [btc_address_analyzer](https://github.com/BitMorphX/btc_address_analyzer) instead.
+
 # 📌 Bitcoin Base58 to HEX Decoder
 
 **Version:** 1.0.0
