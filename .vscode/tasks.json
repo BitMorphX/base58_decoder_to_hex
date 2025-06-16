@@ -1,0 +1,18 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run base58_decoder_to_hex",
+      "type": "shell",
+      "command": "python",
+      "args": [
+        "base58_decoder_to_hex.py"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    }
+  ]
+}
